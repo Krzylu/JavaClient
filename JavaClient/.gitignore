@@ -1,3 +1,4 @@
 *.class
 *.dex
 *.dex.zip
+/bin/
